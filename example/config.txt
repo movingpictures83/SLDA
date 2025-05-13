@@ -1,0 +1,2 @@
+Prefix plugins/SLDA/example/
+Plugin SLDA inputfile parameters.train.txt outputfile output.rds
